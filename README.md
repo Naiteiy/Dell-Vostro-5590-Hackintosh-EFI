@@ -23,18 +23,18 @@ SMBIOS | MacBookPro15,4
 Bootloader | OpenCore 0.9.2
 
 ### Please set up your bios first
-UEFI Boot Path Security - Never
-Integrated NIC - Enabled
-SATA Operation - AHCI
-USB Configuration - Enable USB Boot Support must be checked
-Disable EcoPower (Optional)
-Absolute - Disable Absolute
-TPM 2.0 Security On - OFF
-Intel SGX - Disabled
-Enable Secure Boot - OFF
-Secure Boot Mode - Deployed Mode
-Intel Virtualization Technology - ON
-VT for Direct I/O - OFF
+* UEFI Boot Path Security - Never
+* Integrated NIC - Enabled
+* SATA Operation - AHCI
+* USB Configuration - Enable USB Boot Support must be checked
+* Disable EcoPower (Optional)
+* Absolute - Disable Absolute
+* TPM 2.0 Security On - OFF
+* Intel SGX - Disabled
+* Enable Secure Boot - OFF
+* Secure Boot Mode - Deployed Mode
+* Intel Virtualization Technology - ON
+* VT for Direct I/O - OFF
 
 ### What works and What doesn't or WIP:
 - [x] Intel UHD 620 iGPU eDP Output (with Backlight)
