@@ -52,6 +52,6 @@ Bootloader | OpenCore 0.9.2
 - [x] WiFi and Bluetooth (on Ventura)
 - [x] USB Cardreader
 - [x] Internal Camera
-- [ ] DisplayPort over Type-C (did not check)
+- [x] DisplayPort over Type-C
 - [ ] Internal Mic (not surpport)
 - [ ] MX250 dGPU (Not supported)
