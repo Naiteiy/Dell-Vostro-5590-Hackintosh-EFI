@@ -16,7 +16,7 @@ Audio | Realtek ALC236
 WLAN | Intel 9462AC
 LAN | Realtek RTL8169
 SSD | 480GB Kingston A400 - macOS boot
-NVMe | 1T Micron 2200s - Windows (not surpport macos, have blocked it by boot-args "nvme = -1")
+NVMe | 1T Micron 2200s - Windows (not surpport Macos, have blocked it by boot-args "nvme = -1")
 KB | Built-in Standard PS2 Keyboard
 TP | Built-in I2C HID Trackpad
 SMBIOS | MacBookPro15,4
