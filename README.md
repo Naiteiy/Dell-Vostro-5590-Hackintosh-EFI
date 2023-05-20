@@ -55,3 +55,6 @@ Bootloader | OpenCore 0.9.2
 - [x] DisplayPort over Type-C
 - [ ] Internal Mic (not surpport)
 - [ ] MX250 dGPU (Not supported)
+
+### Contact me
+E-mail:1820031511@qq.com
