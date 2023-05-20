@@ -1,7 +1,7 @@
 # Dell-Vostro-5590-Hackintosh-EFI
 EFI for Dell Vostro 5490/5590 on OpenCore 0.9.2
 Inspiron 5490/5498/5590/5598 may also be universal
-
+Surpport Macos 13 Ventura
 ## Perhaps the most fully functional VOSTRO 5590/5490's EFI
 
 ### Specs:
@@ -49,7 +49,7 @@ Bootloader | OpenCore 0.9.2
 - [x] Realtek RTL8169 LAN
 - [x] ACPI Battery
 - [x] NVRAM
-- [x] WiFi and Bluetooth (on Ventura)
+- [x] WiFi (on Ventura)
 - [x] USB Cardreader
 - [x] Internal Camera
 - [x] DisplayPort over Type-C
