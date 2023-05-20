@@ -5,7 +5,7 @@
 
 ## Perhaps the most fully functional VOSTRO 5590/5490's EFI
 
-### Specs:
+### Specs
 Type | Details
 | -------------- |:----------------------------:|
 CPU | Intel Core i7-10510U
@@ -37,7 +37,7 @@ Bootloader | OpenCore 0.9.2
 * Intel Virtualization Technology - ON
 * VT for Direct I/O - OFF
 
-### What works and What doesn't or WIP:
+### What works and What doesn't
 - [x] Intel UHD 620 iGPU eDP Output (with Backlight)
 - [x] Intel UHD 620 iGPU HDMI Output
 - [x] ALC236 Internal Speakers
