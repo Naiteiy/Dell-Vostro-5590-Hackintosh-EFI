@@ -22,7 +22,7 @@ TP | Built-in I2C HID Trackpad
 SMBIOS | MacBookPro15,4
 Bootloader | OpenCore 0.9.2
 
-### Please set up your bios first
+### Set up your bios first
 * UEFI Boot Path Security - Never
 * Integrated NIC - Enabled
 * SATA Operation - AHCI
