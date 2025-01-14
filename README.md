@@ -44,6 +44,7 @@ Bootloader | OpenCore 0.9.2
 - [x] ALC236 Native Jack Output
 - [x] ALC236 HDMI Audio Output
 - [x] All USB Ports Type A (2xUSB 3.0 and 1xUSB 2.0)
+- [x] Type C Port (USB 3.0 and DisplayPort)
 - [x] SpeedStep / Sleep / Wake
 - [x] I2C Touchpad
 - [x] Intel Bluetooth Module (on Ventura)
@@ -53,7 +54,6 @@ Bootloader | OpenCore 0.9.2
 - [x] WiFi (on Ventura)
 - [x] USB Cardreader
 - [x] Internal Camera
-- [x] DisplayPort over Type-C
 - [ ] Internal Mic (Not surpport)
 - [ ] MX250 dGPU (Not support)
 
